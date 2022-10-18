@@ -2,7 +2,7 @@
 Powershell script to enable TeamsViewer Clean up, install and config
 
 -----------------------------------
- ~ TEAMSVIEWER UNINSTALL ~
+ ~ TEAMSVIEWER UNINSTALL/INSTALL ~
 -----------------------------------
 This script is designed for unattended cleanup and installation of TeamsViewer .
 
