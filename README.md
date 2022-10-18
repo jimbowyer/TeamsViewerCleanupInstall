@@ -23,3 +23,4 @@ NOTE:
 (4) Script contains TeamsViewer credentials so do NOT share outside of control.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+See Teamviewer web site for more details on configuration: https://community.teamviewer.com/English/kb/articles/34447-command-line-parameters 
