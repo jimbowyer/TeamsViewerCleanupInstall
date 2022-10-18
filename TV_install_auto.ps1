@@ -4,8 +4,8 @@
 $SW2remove = "TeamViewer*"
 $OldPath = "C:\Program Files (x86)\TeamViewer"
 $app = "TeamViewer"
-$ArgList = "/i TeamViewer_Host.msi /qn CUSTOMCONFIGID=YOUR-CONFIG-ID"
-$easyAccess = "assign --api-token=INSERT-KEY-HERE --grant-easy-access"
+$ArgList = "/i TeamViewer_Host.msi /qn CUSTOMCONFIGID=<YOUR-CONFIG-ID/>"
+$easyAccess = "assign --api-token=<INSERT-KEY-HERE/> --grant-easy-access"
 
 Write-Verbose -Verbose ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 Write-Verbose -Verbose ("~~~~ STEP 1 - Clean up & Installation of TEAMS VIEWER ~~~~")
