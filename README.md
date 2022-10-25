@@ -4,7 +4,7 @@ Powershell script to enable TeamsViewer Clean up, install and config
 -----------------------------------
  ~ TEAMSVIEWER UNINSTALL/INSTALL ~
 -----------------------------------
-This script is designed for unattended cleanup and installation of TeamsViewer .
+This script is designed for unattended cleanup any discoverd old installs and then install fresh version of TeamsViewer along with any required organization configuration.
 
 ***TIP: optionally, if you run following:
 
@@ -14,7 +14,7 @@ This will dump output from script into txt file that may help capture troublesho
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 NOTE:
-(1) MUST be logged on with Admin account, running elevated, for this script to work
+(1) MUST be logged on with machine Admin account, running elevated, for this script to work
 (2) MUST run PowerShell with elevate execution policy for this script to work.
 		E.g:   Set-ExecutionPolicy -ExecutionPolicy unrestricted
 
